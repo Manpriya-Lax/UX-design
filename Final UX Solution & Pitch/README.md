@@ -4,7 +4,7 @@ Building on Assignment 2, this assignment involved developing and presenting a f
 
 -  **Design Problem Story Arc**: Presented the user journey, needs, and goals.
 -  **Task Flow Diagrams**: Mapped out core user interactions.
-- 🖼 **Design Mockups**: Created visually refined static screens in Figma.
+-  **Design Mockups**: Created visually refined static screens in Figma.
 -  **Design Rationale**: Justified decisions using UX principles and usability best practices.
 
 The final deliverable was an in-class pitch (5–8 minutes) demonstrating how the solution addresses user needs while meeting client expectations.
